@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35bb7186.css",
+    "main.js": "/static/js/main.ee6b2d9a.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/contact.jpg": "/static/media/contact.d882acc23705f1f5b82a.jpg",
+    "static/media/profile_img.jpg": "/static/media/profile_img.5bac6c754a7831b1680d.jpg",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/project1.png": "/static/media/project1.dd86aeb5d5225458fc2b.png",
+    "static/media/mongodb.png": "/static/media/mongodb.accf5273ee85be507b3b.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/resume.pdf": "/static/media/resume.3451a4ce887f855575bc.pdf",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/vscode.png": "/static/media/vscode.d09cb7e8be232f7866f4.png",
+    "static/media/mysql.png": "/static/media/mysql.f251faee4bb075d7f131.png",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/postman.png": "/static/media/postman.525e15ec9cebd1389d78.png",
+    "static/media/react.png": "/static/media/react.ef28a7569ef18dd72579.png",
+    "static/media/aws.png": "/static/media/aws.95533372dba8872a3ac8.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.caafbb5567c905e583e8.png",
+    "static/media/js.png": "/static/media/js.166865dacb77d214f485.png",
+    "static/media/python.png": "/static/media/python.1c4b607f2ef7d3ff8cf4.png",
+    "static/media/node.png": "/static/media/node.e71346fe0fec16ec5f6e.png",
+    "static/media/express.png": "/static/media/express.04e4743fbd704db71ed7.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/github.png": "/static/media/github.69ffd9cd5a846c976177.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/git.png": "/static/media/git.7d664489ed331806ddc8.png",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/index.html",
+    "main.35bb7186.css.map": "/static/css/main.35bb7186.css.map",
+    "main.ee6b2d9a.js.map": "/static/js/main.ee6b2d9a.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35bb7186.css",
+    "static/js/main.ee6b2d9a.js"
+  ]
+}
